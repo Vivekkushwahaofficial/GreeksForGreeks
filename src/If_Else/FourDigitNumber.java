@@ -15,12 +15,4 @@ import java.util.Scanner;
 //    }
 //}
 
-public class FourDigitNumber {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        if (n > 69) System.out.println("Not");
-        else System.out.println("Yes");
-    }
-}
 
