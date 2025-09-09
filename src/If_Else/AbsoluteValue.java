@@ -9,14 +9,22 @@ import java.util.Scanner;
 //        else System.out.println(-n);
 //    }
 //}
+//public class AbsoluteValue {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter Number : ");
+//        double n = sc.nextDouble(); //n = 3.14
+//        int x = (int)n; //x = 3
+//        if(n-x == 0) System.out.println("It is Integer");
+//        else System.out.println("not an Integer");
+//    }
+//}
 public class AbsoluteValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Number : ");
-        double n = sc.nextDouble(); //n = 3.14
-        int x = (int)n; //x = 3
-        if(n-x == 0) System.out.println("It is Integer");
-        else System.out.println("not an Integer");
+        System.out.print("Enter number: ");
+        int n = sc.nextInt();
+        System.out.print(Math.abs(n));
     }
 }
 
