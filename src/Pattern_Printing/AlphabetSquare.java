@@ -6,7 +6,7 @@ public class AlphabetSquare {
         int n = sc.nextInt();
         for(int i=0; i<=n; i++) {
             for(int j=0; j<=n; j++){
-                System.out.print((char)(98));
+                System.out.print((char)(i+65));
             }
             System.out.println();
         }
