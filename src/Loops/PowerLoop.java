@@ -11,6 +11,7 @@ public class PowerLoop {
         for (int i=1; i<=a; i++) {
             pow *= a;
         }
-        System.out.println(pow);
+//        System.out.println(pow);
+        System.out.println(a+"Raised to the power"+b +" is " +pow);
     }
 }
