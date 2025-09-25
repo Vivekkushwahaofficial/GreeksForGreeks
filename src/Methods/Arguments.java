@@ -14,7 +14,7 @@ public class Arguments {
         else if (b>=a && b>=c) System.out.println(b);
         else System.out.println(c);
     }
-    public static void main(String [] args){
+    public static void main(String [] args) {
         max(4, 5, 6);                         //Arguments
     }
 }
