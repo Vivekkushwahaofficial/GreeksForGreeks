@@ -126,7 +126,7 @@ Klass ID Range:  [8 - 1090519033) (1090519025)
 
 GC Precious Log:
  CardTable entry size: 512
- Card Set container configuration: InlinePtr #cards 4 size 8 Array Of Cards #cards 16 size 48 Howl #buckets 8 coarsen threshold 3686 Howl Bitmap #cards 512 size 80 coarsen threshold 460 Card regions per heap region 1 cards per card region 4096
+ Card Set container configuration: InlinePtr #cards 4 size 8 Arrays Of Cards #cards 16 size 48 Howl #buckets 8 coarsen threshold 3686 Howl Bitmap #cards 512 size 80 coarsen threshold 460 Card regions per heap region 1 cards per card region 4096
  CPUs: 12 total, 12 available
  Memory: 16068M
  Large Page Support: Disabled

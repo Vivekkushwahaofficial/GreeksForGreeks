@@ -1273,7 +1273,7 @@ instanceKlass java/lang/classfile/AnnotationElement
 instanceKlass java/lang/invoke/InvokerBytecodeGenerator
 instanceKlass java/lang/invoke/LambdaForm$Holder
 instanceKlass java/lang/invoke/LambdaForm$Name
-instanceKlass java/lang/reflect/Array
+instanceKlass java/lang/reflect/Arrays
 instanceKlass java/lang/invoke/Invokers
 instanceKlass sun/invoke/util/ValueConversions
 instanceKlass java/lang/invoke/DirectMethodHandle$Holder
