@@ -15,7 +15,7 @@ package Arrays;
 //      }
 //}
     import java.util.*;
-public class OutputArray {
+public class InputOutputArray {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 //        int[] arr = {33,44,55,66,77,88,99};
