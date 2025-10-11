@@ -3,7 +3,7 @@ import java.util.*;
 public class TwoSum {
     public static void main(String[] args) {
         int arr[] = {2,5,1,9,4,3};
-        int target = 3;
+        int target = -5;
 
         boolean result = twoSum(arr, target);
         System.out.println("Two sum "+ result);
